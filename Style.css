@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    width: 100vw;
+    height:100vh;
+    
+}
+main{
+    display: flex;
+    width: 45rem;
+    height: 38%rem;
+    background-color: white;
+    margin:12rem 3rem 6rem 9rem;
+    padding: 5rem
+}
